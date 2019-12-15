@@ -1,0 +1,6 @@
+﻿  LabWork2.cpp
+c:\users\ivano\onedrive\документы\labs\c++\laboratorywork2\task\labwork2\labwork2.cpp(109): warning C4101: masA: неиспользованная локальная переменная
+c:\users\ivano\onedrive\документы\labs\c++\laboratorywork2\task\labwork2\labwork2.cpp(198): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+c:\users\ivano\onedrive\документы\labs\c++\laboratorywork2\task\labwork2\labwork2.cpp(206): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\users\ivano\onedrive\документы\labs\c++\laboratorywork2\task\labwork2\labwork2.cpp(216): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+  LabWork2.vcxproj -> C:\Users\ivano\OneDrive\Документы\Labs\C++\LaboratoryWork2\Task\Debug\LabWork2.exe
